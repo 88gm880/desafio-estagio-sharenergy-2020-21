@@ -1,3 +1,9 @@
+# Dependências usadas e instrução de instalação e execução da aplicação criada
+   
+
+# Link do video explicativo no youtube
+
+
 # Desafio para processo seletivo de estágio SHARENERGY 2020/21
    Esse repositório se destina aos interessados em participar do processo seletivo para estagiários da SHARENERGY 2020/21. As vagas são voltadas para desenvolvimento de aplicação  Web.
 
